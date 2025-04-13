@@ -8,7 +8,7 @@ This project demonstrates a Node.js application with Prisma ORM, running a Postg
 This project, `docker-compose-api`, demonstrates my journey of building a Node.js application with Prisma ORM and a PostgreSQL database using three different approaches: Manual Installation, Docker, and Docker Compose.
 
 
-- **Manual Installation**:
+### Manual Installation:
   - Installed Node.js locally and cloned the repository.
  
 
@@ -32,7 +32,7 @@ This project, `docker-compose-api`, demonstrates my journey of building a Node.j
 
 
 
-- **Docker Approach**:
+### Docker Approach:
   - Installed Docker and created a custom network with `docker network create user_project`.
 
 
@@ -59,7 +59,7 @@ This project, `docker-compose-api`, demonstrates my journey of building a Node.j
 
 
 
-- **Docker Compose Approach**:
+### Docker Compose Approach:
   - Installed Docker and Docker Compose.
   - Used a `docker-compose.yml` file and ran `docker-compose up`.
 
